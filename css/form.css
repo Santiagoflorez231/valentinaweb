@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+}
+
+ .input{
+    display: flex;
+}
+
+.pos{
+    position: relative;
+    color: chartreuse;
+    font-size: 20px;
+    margin-left:4px;
+    opacity:1;
+}
+
+.img_l{
+  
+    
+}
+
+

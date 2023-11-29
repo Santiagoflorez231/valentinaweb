@@ -1,0 +1,40 @@
+
+.img_validation{
+    position: relative;
+    color: chartreuse;
+    font-size: 20px;
+    margin-left:4px;
+    opacity: 0;
+}
+.mensaje{
+    font-size: 13px;
+}
+
+.bi-x-lg{
+    position: relative;
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    margin-left:4px;
+    opacity: 1;
+}
+
+.pos{
+    opacity: 1;
+}
+
+.remove{
+    opacity: 0;
+}
+
+.correct{
+    /* border: 8px solid chartreuse; */
+    border: 1px solid chartreuse;
+    opacity: 1;    
+} 
+
+.incorrect{
+    /* border: 8px solid chartreuse; */
+    border: 1px solid rgb(184, 1, 1);   
+    background-color: rgba(255, 0, 0, 0.123); 
+    opacity: 1;
+} 

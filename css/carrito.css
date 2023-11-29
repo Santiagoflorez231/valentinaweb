@@ -1,0 +1,63 @@
+#imagenes img{
+    width:250px;
+}
+/* .producto {
+    display: flex;
+} */
+
+ul li{
+    color:#8483af;
+    margin-bottom: 3px;
+    
+}
+.texto{
+    font-size: 17px;
+    
+        font-family: 'Dancing Script', cursive;
+   
+}
+.btn1,.btn2, .btn3{
+    font-family:century gothic;
+    width:auto;
+    font-size: 13px;
+    margin: 0px 5px 0px 1px;
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn1{
+    background-color: chartreuse;
+}
+
+.btn2{
+    background-color: rgb(122, 122, 122)
+}
+
+.btn3{
+    background-color: rgba(240, 38, 38, 0.856)
+}
+
+.vaciar{
+    font-family:century gothic;
+    width:auto;
+    font-size: 15px;
+    font-weight: 800;
+    color: aliceblue;
+    margin: 0px 5px 0px 1px;
+    background-color: #8483af;
+    border: none;
+    border-radius: 5px;
+}
+
+#total-carrito{
+    font-family:century gothic;
+    font-size: 20px;
+    font-weight: 800;
+    color: rgb(122, 122, 122);
+}
+
+.text{
+    font-family:century gothic;
+    font-weight: 500;
+}

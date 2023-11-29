@@ -1,0 +1,36 @@
+.caja {
+    width: 100%;
+    height: 550px;
+    background: url(../img/murcielago.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.caja02 {
+    width: 100%;
+    height: 550px;
+    background: url(../img/esfera.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+
+}
+
+.caja03 {
+    width: 100%;
+    height: 550px;
+    background: url(../img/conejo.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+
+}
+#t{
+    display: flex;
+    align-content: center;
+}
+.imagen{
+ height:400px;
+   
+}
